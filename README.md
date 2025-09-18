@@ -68,11 +68,7 @@ src/
 └── index.js            # Application entry point
 ```
 
-## 🔒 Default Login Credentials
 
-For testing purposes, you can use the following credentials:
-- **Email:** uzairkashif180@gmail.com
-- **Password:** Abcd#123
 
 ## 🤝 Contributing
 
